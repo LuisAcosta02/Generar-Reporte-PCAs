@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Laboratorio captura de datos",
+  "description": "Aplicación web local para captura, procesamiento y exportación de datos geotécnicos de laboratorio.",
+  "requestFramePermissions": []
+}
